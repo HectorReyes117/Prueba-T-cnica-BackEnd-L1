@@ -14,7 +14,7 @@ Consola del Administrador de Paquetes.
 <img src="https://res.cloudinary.com/tecnosoftware/image/upload/v1662612391/Captura_v1oyox.png" width="650px" height="350px" title="hover text">
 
 En dicha consola debera primero seleccionar la capa PruebaTecnicaBackend.Infraestructure y luego escribir el comando update-database para aplicar la 
-migracion, con esto ya tendriamos el proyecto listo para correr.
+migracion y se creen las tablas en el Gestor de base de datos SQL Server, con esto ya tendriamos el proyecto listo para correr.
 
 <img src="https://res.cloudinary.com/tecnosoftware/image/upload/v1662612835/Captura2_yhnfwt.png" width="650px" height="350px" title="hover text">
 
