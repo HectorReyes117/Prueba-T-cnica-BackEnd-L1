@@ -1,0 +1,15 @@
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\bin\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.deps.json
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\bin\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.dll
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\bin\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.pdb
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\bin\Debug\net6.0\PruebaTecnicaBackend.Core.dll
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\bin\Debug\net6.0\PruebaTecnicaBackend.Core.pdb
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.csproj.AssemblyReference.cache
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.AssemblyInfo.cs
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.csproj.CopyComplete
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.dll
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\refint\PruebaTecnicaBackend.Infraestructure.dll
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\PruebaTecnicaBackend.Infraestructure.pdb
+D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Infraestructure\obj\Debug\net6.0\ref\PruebaTecnicaBackend.Infraestructure.dll
