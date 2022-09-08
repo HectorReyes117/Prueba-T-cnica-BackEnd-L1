@@ -16,6 +16,8 @@ namespace PruebaTecnicaBackend.Infraestructure.Mappings
             CreateMap<ProfessorDTO, Professor>();
             CreateMap<ProfessorGetDTO, Professor>();
             CreateMap<Professor, ProfessorGetDTO>();
+            CreateMap<ScheduleWeek, ScheduleWeekDTO>();
+            CreateMap<ScheduleWeekDTO, ScheduleWeek>();
         }
     }
 }

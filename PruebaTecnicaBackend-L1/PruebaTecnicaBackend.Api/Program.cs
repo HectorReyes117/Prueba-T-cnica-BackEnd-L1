@@ -71,6 +71,7 @@ builder.Services.AddAuthentication(option =>
 builder.Services.AddTransient<IProfessorRepository, ProfessorRepository>();
 builder.Services.AddTransient<IStudentRepository, StudentRepository>();
 builder.Services.AddTransient<IClassroomRepository, ClassroomRepository>();
+builder.Services.AddTransient<IScheduleWeekRepository, ScheduleWeekRepository>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

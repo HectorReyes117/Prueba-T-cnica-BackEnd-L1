@@ -12,7 +12,7 @@ using PruebaTecnicaBackend.Infraestructure.Data;
 namespace PruebaTecnicaBackend.Infraestructure.Migrations
 {
     [DbContext(typeof(PruebaTecnicaBackendContext))]
-    [Migration("20220908041404_AddBlogCreatedTimestamp")]
+    [Migration("20220908193536_AddBlogCreatedTimestamp")]
     partial class AddBlogCreatedTimestamp
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -55,6 +55,7 @@ namespace PruebaTecnicaBackend.Infraestructure.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("DateCrete")
+                        .IsRequired()
                         .HasMaxLength(60)
                         .IsUnicode(false)
                         .HasColumnType("varchar(60)");
@@ -89,6 +90,7 @@ namespace PruebaTecnicaBackend.Infraestructure.Migrations
                         .HasColumnType("varchar(60)");
 
                     b.Property<string>("Turn")
+                        .IsRequired()
                         .HasMaxLength(60)
                         .IsUnicode(false)
                         .HasColumnType("varchar(60)");
@@ -98,6 +100,43 @@ namespace PruebaTecnicaBackend.Infraestructure.Migrations
                     b.HasIndex("ClassroomId");
 
                     b.ToTable("Professor", (string)null);
+                });
+
+            modelBuilder.Entity("PruebaTecnicaBackend.Core.Entities.ScheduleWeek", b =>
+                {
+                    b.Property<int>("IdSchedule")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdSchedule"), 1L, 1);
+
+                    b.Property<int>("Dayss")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Months")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(200)");
+
+                    b.Property<int>("ProfessorId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Weeks")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(200)");
+
+                    b.Property<int>("Years")
+                        .HasColumnType("int");
+
+                    b.HasKey("IdSchedule")
+                        .HasName("PK__Schedule__D16D3B627E8F87F9");
+
+                    b.HasIndex("ProfessorId");
+
+                    b.ToTable("ScheduleWeek", (string)null);
                 });
 
             modelBuilder.Entity("PruebaTecnicaBackend.Core.Entities.Student", b =>
@@ -140,6 +179,17 @@ namespace PruebaTecnicaBackend.Infraestructure.Migrations
                     b.Navigation("Classroom");
                 });
 
+            modelBuilder.Entity("PruebaTecnicaBackend.Core.Entities.ScheduleWeek", b =>
+                {
+                    b.HasOne("PruebaTecnicaBackend.Core.Entities.Professor", "Professor")
+                        .WithMany("ScheduleWeeks")
+                        .HasForeignKey("ProfessorId")
+                        .IsRequired()
+                        .HasConstraintName("FK__ScheduleW__Profe__59063A47");
+
+                    b.Navigation("Professor");
+                });
+
             modelBuilder.Entity("PruebaTecnicaBackend.Core.Entities.Student", b =>
                 {
                     b.HasOne("PruebaTecnicaBackend.Core.Entities.Classroom", "Classroom")
@@ -155,6 +205,11 @@ namespace PruebaTecnicaBackend.Infraestructure.Migrations
                     b.Navigation("Professors");
 
                     b.Navigation("Students");
+                });
+
+            modelBuilder.Entity("PruebaTecnicaBackend.Core.Entities.Professor", b =>
+                {
+                    b.Navigation("ScheduleWeeks");
                 });
 #pragma warning restore 612, 618
         }

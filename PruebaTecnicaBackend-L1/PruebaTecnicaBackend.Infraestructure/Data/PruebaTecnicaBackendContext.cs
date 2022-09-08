@@ -17,14 +17,19 @@ namespace PruebaTecnicaBackend.Infraestructure.Data
 
         public virtual DbSet<Classroom> Classrooms { get; set; } = null!;
         public virtual DbSet<Professor> Professors { get; set; } = null!;
+        public virtual DbSet<ScheduleWeek> ScheduleWeeks { get; set; } = null!;
         public virtual DbSet<Student> Students { get; set; } = null!;
 
+     
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new ClassroomConfiguration());
             modelBuilder.ApplyConfiguration(new ProfessorConfiguration());
+            modelBuilder.ApplyConfiguration(new ScheduleWeekConfiguration());
             modelBuilder.ApplyConfiguration(new StudentConfiguration());
+
+           
         }
     }
 }
