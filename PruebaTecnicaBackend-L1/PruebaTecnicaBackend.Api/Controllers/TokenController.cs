@@ -47,7 +47,6 @@ namespace PruebaTecnicaBackend.Api.Controllers
                 new Claim(ClaimTypes.Name, "Hector Reyes"),
                 new Claim(ClaimTypes.Email, "Hector@gmail.com"),
                 new Claim(ClaimTypes.Role, "Administrador")
-
             };
 
             //Payload
@@ -57,7 +56,7 @@ namespace PruebaTecnicaBackend.Api.Controllers
                 configuration["Authentication:Audience"],
                 claims,
                 DateTime.Now,
-                DateTime.UtcNow.AddMinutes(2)
+                DateTime.UtcNow.AddMinutes(10)
             );
 
             var token = new JwtSecurityToken(header,payload);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDkUWsZVnnjIpIyTshSK0vAwTmYhSZWzBnL53tmnhFTce3L+CgPWWSMgVft1wh8XXThkrXgZ5jJ3GciO0Ob4VA==",
+  "dgSpecHash": "8+Oaw+LkkIPhtW7ggALksu0bntzzqLPrwjHYRgIORHf/M61Nh4+L9DgOD0+h4wFKN6D3jo1bRCLzS1i05lUWdQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Hector\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -2302,11 +2302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\PruebaTecnicaBackend.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\PruebaTecnicaBackend.Api.csproj",
       "projectName": "PruebaTecnicaBackend.Api",
-      "projectPath": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\PruebaTecnicaBackend.Api.csproj",
+      "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\PruebaTecnicaBackend.Api.csproj",
       "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\obj\\",
+      "outputPath": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2327,11 +2327,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Core\\PruebaTecnicaBackend.Core.csproj": {
-              "projectPath": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Core\\PruebaTecnicaBackend.Core.csproj"
+            "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Core\\PruebaTecnicaBackend.Core.csproj": {
+              "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Core\\PruebaTecnicaBackend.Core.csproj"
             },
-            "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj": {
-              "projectPath": "D:\\Proyectos\\Asp.Net\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj"
+            "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\Prueba-T-cnica-BackEnd-L1\\PruebaTecnicaBackend-L1\\PruebaTecnicaBackend.Infraestructure\\PruebaTecnicaBackend.Infraestructure.csproj"
             }
           }
         }

@@ -12,3 +12,17 @@ D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug
 D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.pdb
 D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.genruntimeconfig.cache
 D:\Proyectos\Asp.Net\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\ref\PruebaTecnicaBackend.Core.dll
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\bin\Debug\net6.0\PruebaTecnicaBackend.Core.deps.json
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\bin\Debug\net6.0\PruebaTecnicaBackend.Core.runtimeconfig.json
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\bin\Debug\net6.0\PruebaTecnicaBackend.Core.dll
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\bin\Debug\net6.0\PruebaTecnicaBackend.Core.pdb
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.csproj.AssemblyReference.cache
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.AssemblyInfoInputs.cache
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.AssemblyInfo.cs
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.dll
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\refint\PruebaTecnicaBackend.Core.dll
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.pdb
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\PruebaTecnicaBackend.Core.genruntimeconfig.cache
+C:\Users\Hector\Documents\GitHub\Prueba-T-cnica-BackEnd-L1\PruebaTecnicaBackend-L1\PruebaTecnicaBackend.Core\obj\Debug\net6.0\ref\PruebaTecnicaBackend.Core.dll
