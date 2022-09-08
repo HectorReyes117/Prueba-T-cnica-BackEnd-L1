@@ -16,5 +16,5 @@ Consola del Administrador de Paquetes.
 En dicha consola debera primero seleccionar la capa PruebaTecnicaBackend.Infraestructure y luego escribir el comando update-database para aplicar la 
 migracion, con esto ya tendriamos el proyecto listo para correr.
 
-<img src="https://res.cloudinary.com/tecnosoftware/image/upload/v1662612835/Captura2_yhnfwt.png" width="650px" height="400px" title="hover text">
+<img src="https://res.cloudinary.com/tecnosoftware/image/upload/v1662612835/Captura2_yhnfwt.png" width="650px" height="350px" title="hover text">
 
